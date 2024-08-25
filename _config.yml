@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hannoria / Site Title"
+title                    : "Yajie Han"
 title_separator          : "-"
-name                     : &name "Hannoria"
+name                     : &name "Yajie Han"
 description              : &description "Hello! I'm Hannoria, a final-year Ph.D. student in the Department of Real Estate at NUS Business School."
 url                      : https://shiba-han.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,12 +21,12 @@ repository               : "shiba-han/shiba-han.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Hannoria"
+  avatar           : "profile1.png"
+  name             : "Yajie Han"
   # pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   employer         : "National University of Singapore"
-  # uri              : # URL
+  url              : https://shiba-han.github.io
   email            : "a16786@sina.com" 
 
   # Academic websites
