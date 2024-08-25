@@ -24,7 +24,7 @@ author:
   avatar           : "profile1.png"
   name             : "Yajie Han"
   # pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   employer         : "National University of Singapore"
   url              : https://shiba-han.github.io
   email            : "a16786@sina.com" 
@@ -202,7 +202,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   #portfolio:
@@ -245,7 +245,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
