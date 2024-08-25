@@ -12,7 +12,7 @@ title                    : "Yajie Han"
 title_separator          : "-"
 name                     : &name "Yajie Han"
 description              : &description "Hello! I'm Hannoria, a final-year Ph.D. student in the Department of Real Estate at NUS Business School."
-url                      : https://shiba-han.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hanyajie.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shiba-han/shiba-han.github.io"
 
@@ -26,7 +26,7 @@ author:
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   employer         : "National University of Singapore"
-  url              : https://shiba-han.github.io
+  url              : https://hanyajie.com
   email            : "a16786@sina.com" 
 
   # Academic websites
