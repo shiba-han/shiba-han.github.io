@@ -7,9 +7,9 @@ author_profile: true
 
 ## Publications
 
-- Sumit Agarwal*, **Yajie Han**, Yu Qin, and Hongjia Zhu. "Disguised Pollution: Industrial Activities in the Dark" **_Journal of Public Economics_**, 2023 Vol 223: 104904.
+- Sumit Agarwal*, **Yajie Han**, Yu Qin, and Hongjia Zhu. ["Disguised Pollution: Industrial Activities in the Dark"](../assets/disguised_pollution.pdf). **_Journal of Public Economics_**, 2023 Vol 223: 104904.
 
-- Ruochen Dai, Dongmei Guo, **Yajie Han** and Yu Qin*. "Pollution-Induced Trips: Evidence from Flight and Train Bookings in China" **_Journal of Development Economics_**, 2024 Vol 171: 103340.
+- Ruochen Dai, Dongmei Guo, **Yajie Han** and Yu Qin*. ["Pollution-Induced Trips: Evidence from Flight and Train Bookings in China"](../assets/pollution_induced_trips.pdf) **_Journal of Development Economics_**, 2024 Vol 171: 103340.
 
 ## Working Papers
 
