@@ -37,9 +37,8 @@ Data sources commonly used in environmental economics research (to be updated)
 - **Resolution**: 0.125 ° x 0.125 ° x daily  
 - **Coverage**: global, 2004.10–present  
 - **Pollutants**: SO<sub>2</sub> (molecule per square centimeter)  
-
-OMSO<sub>2</sub>e is collected by OMI, a spectrometer aboard NASA’s Aura satellite. OMSO<sub>2</sub>e measures Total Column Density of SO<sub>2</sub> in the Planetary Boundary Layer. The data can be downloaded from [NASA Earth Data](https://disc.gsfc.nasa.gov/datasets/OMSO2G_003/summary).  
-*Note*: OMSO<sub>2</sub>e contains many negative values with a mean value close to zero. Negative values are a result of OMSO<sub>2</sub>e’s retrieval algorithm, which is based on principal component analysis. The algorithm may give slightly negative values in regions where SO<sub>2</sub> emissions are low. However, when SO<sub>2</sub> emissions are high, we will see a stronger signal and higher SO2 value.
+- OMSO<sub>2</sub>e is collected by OMI, a spectrometer aboard NASA’s Aura satellite. OMSO<sub>2</sub>e measures Total Column Density of SO<sub>2</sub> in the Planetary Boundary Layer. The data can be downloaded from [NASA Earth Data](https://disc.gsfc.nasa.gov/datasets/OMSO2G_003/summary).  
+- *Note*: OMSO<sub>2</sub>e contains many negative values with a mean value close to zero. Negative values are a result of OMSO<sub>2</sub>e’s retrieval algorithm, which is based on principal component analysis. The algorithm may give slightly negative values in regions where SO<sub>2</sub> emissions are low. However, when SO<sub>2</sub> emissions are high, we will see a stronger signal and higher SO2 value.
 
 ## Global High Air Pollutants (GHAP)
 - Long-term, full-coverage, high-resolution, and high-quality datasets of ground-level air pollutants. It is generated from big data (e.g., ground-based measurements, satellite remote sensing products, atmospheric reanalysis, and model simulations) using artificial intelligence by considering the spatiotemporal heterogeneity of air pollution. 
