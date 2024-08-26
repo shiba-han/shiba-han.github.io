@@ -11,13 +11,7 @@ author_profile: true
 |-------------------------------------------------|---------------|
 | RE1704 Principles of Real Estate Economics      | Spring 2021   |
 | RE1705 Real Estate Finance and Accounting       | Fall 2021     |
-| RE2706 Real Estate and Infrastructure Finance   | Spring 2021   |
-
-## Teaching Assistant
-
-| Course                                          | Term          |
-|-------------------------------------------------|---------------|
-| RE5004 Real Estate Economics                    | Fall 2021     |
+| RE2706 Real Estate and Infrastructure Finance   | Spring 2022   |
 
 ## Selected Student Feedback
 
@@ -33,3 +27,9 @@ author_profile: true
 
 - Ms. Neo, "Unveiling the Connection between Regional Centers and Private Residential Property Prices"
 - Ms. Teng, "Impact of High-speed Rail Cancellation on Property Prices: A Study on the Singapore-Kuala Lumpur High Speed Rail"
+
+## Teaching Assistant
+
+| Course                                          | Term          |
+|-------------------------------------------------|---------------|
+| RE5004 Real Estate Economics                    | Fall 2021     |
