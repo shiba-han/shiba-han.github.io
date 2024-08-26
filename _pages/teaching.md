@@ -19,7 +19,6 @@ author_profile: true
 |-------------------------------------------------|---------------|
 | RE5004 Real Estate Economics                    | Fall 2021     |
 
-
 ## Selected Student Feedback
 
 - "She is very good at what she taught. confident in her teaching and the answers she provides for the tutorial question. she is very helpful to explain the topic."
