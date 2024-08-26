@@ -31,8 +31,8 @@ author_profile: true
 - "Climate Change and Supply Chains", with Ming Li and Yu Qin
 
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
