@@ -25,19 +25,18 @@ Data sources commonly used in environmental economics research (to be updated)
 - These data can be downloaded from [stateair.net](http://stateair.net/). Click the city of interest -> View Data -> Agree to the data use agreement.
 
 ## Estimated PM<sub>2.5</sub> from Combining Satellite Data and Chemical Transport Modeling
-- **Source**: Atmospheric Composition Analysis Group V5.GL.03  
+- **Source**: [Atmospheric Composition Analysis Group V5.GL.03](https://sites.wustl.edu/acag/datasets/surface-pm2-5/#V4.CH.03).
 - **Resolution**: 0.01° x 0.01° x yearly or 0.01° x 0.01° x monthly  
 - **Coverage**: global, 2000–2022  
 - **Pollutants**: PM<sub>2.5</sub> 
 - PM<sub>2.5</sub> are estimated using information from satellite-, simulation- and monitor-based sources. Aerosol optical depth from multiple satellites (MODIS, VIIRS, MISR, and SeaWiFS) and their respective retrievals (Dark Target, Deep Blue, MAIAC) are combined with simulation (GEOS-Chem) based upon their relative uncertainties as determined using ground-based sun photometer (AERONET) observations to produce geophysical estimates that explain most of the variance in ground-based PM<sub>2.5</sub> measurements. 
-- These data can be downloaded from [here](https://sites.wustl.edu/acag/datasets/surface-pm2-5/#V4.CH.03).
 
 ## SO<sub>2</sub> Satellite Data
-- **Source**: OMI/Aura Sulphur Dioxide (SO<sub>2</sub>) Global Gridded V3  
+- **Source**: [OMI/Aura Sulphur Dioxide (SO<sub>2</sub>) Global Gridded V3](https://disc.gsfc.nasa.gov/datasets/OMSO2G_003/summary)
 - **Resolution**: 0.125 ° x 0.125 ° x daily  
 - **Coverage**: global, 2004.10–present  
 - **Pollutants**: SO<sub>2</sub> (molecule per square centimeter)  
-- OMSO<sub>2</sub>e is collected by OMI, a spectrometer aboard NASA’s Aura satellite. OMSO<sub>2</sub>e measures Total Column Density of SO<sub>2</sub> in the Planetary Boundary Layer. The data can be downloaded from [NASA Earth Data](https://disc.gsfc.nasa.gov/datasets/OMSO2G_003/summary).  
+- OMSO<sub>2</sub>e is collected by OMI, a spectrometer aboard NASA’s Aura satellite. OMSO<sub>2</sub>e measures Total Column Density of SO<sub>2</sub> in the Planetary Boundary Layer.
 - *Note*: OMSO<sub>2</sub>e contains many negative values with a mean value close to zero. Negative values are a result of OMSO<sub>2</sub>e’s retrieval algorithm, which is based on principal component analysis. The algorithm may give slightly negative values in regions where SO<sub>2</sub> emissions are low. However, when SO<sub>2</sub> emissions are high, we will see a stronger signal and higher SO2 value.
 
 ## Global High Air Pollutants (GHAP)
@@ -60,8 +59,8 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 - **Resolution**: monitoring section x 4-hour (note: 2014-04-2020-11: ~100 monitoring sections, after 2020.11: 1600+ monitoring sections)  
 - **Coverage**: 2014.04-present  
 - **Pollutants**
-    - **Before 2020.05**: pH, 溶解氧（DO）, 高锰酸盐指数（CODMn）, 总有机碳（TOC）, 氨氮（NH3-N）
-    - **After 2020-05**: 水温 (C摄氏度), pH, 溶解氧（mg/L）, 电导率 (us/cm), 浊度 (NTU), 高猛酸盐指数 (mg/L), 氨氮 (mg/L), 总磷 (mg/L), 总氮 (mg/L), 叶绿素α (mg/L), 藻密度 (cells/L)
+    - **Before 2020.05**: pH, Dissolved Oxygen (DO), Permanganate Index (CODMn), Total Organic Carbon (TOC), Ammonia Nitrogen (NH3-N)
+    - **After 2020-05**: Water Temperature (°C), pH, Dissolved Oxygen (mg/L), Electrical Conductivity (μs/cm), Turbidity (NTU), Permanganate Index (mg/L), Ammonia Nitrogen (mg/L), Total Phosphorus (mg/L), Total Nitrogen (mg/L), Chlorophyll-a (mg/L), Algal Density (cells/L)
 
 
 # IV. Firm-level Emission Data
@@ -92,7 +91,7 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 - **Resolution**: monitor x daily  
 - **Coverage**: national (700+ monitors across all 330+ prefecture-level cities), 2008–2021 
 - Include temperature, air pressure, water pressure, precipitation, relative humidity, sunshine duration, wind speed, wind direction
-- Downloading the data needs access as an education user.
+- *Note*: Downloading the data needs access as an education user.
 
 
 ## NOAA Monitoring Data
