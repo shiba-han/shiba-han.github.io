@@ -8,7 +8,6 @@ author_profile: true
 Data sources commonly used in environmental economics research (to be updated)
 
 # I. Air Pollution
-
 ## Ground Monitoring Data
 - **Source**: China Ministry of Ecology and Environment  
 - **Resolution**: monitor x hourly  
@@ -23,12 +22,12 @@ Data sources commonly used in environmental economics research (to be updated)
 - **Pollutants**: PM<sub>2.5</sub>
 - These data can be downloaded from [stateair.net](http://stateair.net/). Click the city of interest -> View Data -> Agree to the data use agreement.
 
-## Estimated PM<sub>2.5<sub> from Combining Satellite Data and Chemical Transport Modeling
+## Estimated PM<sub>2.5</sub> from Combining Satellite Data and Chemical Transport Modeling
 - **Source**: Atmospheric Composition Analysis Group V5.GL.03  
 - **Resolution**: 0.01° x 0.01° x yearly or 0.01° x 0.01° x monthly  
 - **Coverage**: global, 2000–2022  
 - **Pollutants**: PM<sub>2.5</sub> 
-- PM<sub>2.5</sub> are estimated using information from satellite-, simulation- and monitor-based sources. Aerosol optical depth from multiple satellites (MODIS, VIIRS, MISR, and SeaWiFS) and their respective retrievals (Dark Target, Deep Blue, MAIAC) are combined with simulation (GEOS-Chem) based upon their relative uncertainties as determined using ground-based sun photometer (AERONET) observations to produce geophysical estimates that explain most of the variance in ground-based PM2.5 measurements. 
+- PM<sub>2.5</sub> are estimated using information from satellite-, simulation- and monitor-based sources. Aerosol optical depth from multiple satellites (MODIS, VIIRS, MISR, and SeaWiFS) and their respective retrievals (Dark Target, Deep Blue, MAIAC) are combined with simulation (GEOS-Chem) based upon their relative uncertainties as determined using ground-based sun photometer (AERONET) observations to produce geophysical estimates that explain most of the variance in ground-based PM<sub>2.5</sub> measurements. 
 - These data can be downloaded from [here](https://sites.wustl.edu/acag/datasets/surface-pm2-5/#V4.CH.03).
 
 ## SO<sub>2</sub> Satellite Data
@@ -37,8 +36,8 @@ Data sources commonly used in environmental economics research (to be updated)
 - **Coverage**: global, 2004.10–present  
 - **Pollutants**: SO<sub>2</sub> (molecule per square centimeter)  
 
-OMSO<sub>2</sub>e is collected by OMI, a spectrometer aboard NASA’s Aura satellite. OMSO2e measures Total Column Density of SO<sub>2</sub> in the Planetary Boundary Layer. The data can be downloaded from [NASA Earth Data](https://disc.gsfc.nasa.gov/datasets/OMSO2G_003/summary).  
-*Note*: OMSO2e contains many negative values with a mean value close to zero. Negative values are a result of OMSO<sub>2</sub>e’s retrieval algorithm, which is based on principal component analysis. The algorithm may give slightly negative values in regions where SO2 emissions are low. However, when SO<sub>2</sub> emissions are high, we will see a stronger signal and higher SO2 value.
+OMSO<sub>2</sub>e is collected by OMI, a spectrometer aboard NASA’s Aura satellite. OMSO<sub>2</sub>e measures Total Column Density of SO<sub>2</sub> in the Planetary Boundary Layer. The data can be downloaded from [NASA Earth Data](https://disc.gsfc.nasa.gov/datasets/OMSO2G_003/summary).  
+*Note*: OMSO<sub>2</sub>e contains many negative values with a mean value close to zero. Negative values are a result of OMSO<sub>2</sub>e’s retrieval algorithm, which is based on principal component analysis. The algorithm may give slightly negative values in regions where SO<sub>2</sub> emissions are low. However, when SO<sub>2</sub> emissions are high, we will see a stronger signal and higher SO2 value.
 
 ## Global High Air Pollutants (GHAP)
 Long-term, full-coverage, high-resolution, and high-quality datasets of ground-level air pollutants. It is generated from big data (e.g., ground-based measurements, satellite remote sensing products, atmospheric reanalysis, and model simulations) using artificial intelligence by considering the spatiotemporal heterogeneity of air pollution. 
@@ -48,7 +47,6 @@ Long-term, full-coverage, high-resolution, and high-quality datasets of ground-l
 The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/records?q=&l=list&p=1&s=10&sort=newest).
 
 # II. Instrumental Variable for Air Pollution
-
 ## Thermal Inversion
 - **Source**: MERRA-2  
 - **Resolution**: 0.5 ° x 0.625 ° x 3 hours x 42 pressure levels  
@@ -68,9 +66,7 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 
 
 # IV. Firm-level Emission Data
-
-## Environmental Survey and Reporting (ESR)
-[ESR Platform](http://hbk.cei.cn/aspx/default.aspx)  
+## Environmental Survey and Reporting (ESR), [ESR Platform](http://hbk.cei.cn/aspx/default.aspx)  
 - **Source**: administrated by MEP, first self-reported by each polluter, and then randomly verified by government auditors  
 - **Resolution**: firm x yearly  
 - **Coverage**: since 2001, top firms/plants contributing 85% of total emissions of the major pollutants in a county are entered in the ERS (Wang et al. 2018)  
@@ -88,7 +84,7 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 - **Source**: each province’s publicly accessible data platform  
 - **Resolution**: firm x unit x hourly  
 - **Coverage**: Guangdong, Hubei, Shandong, Hebei, Zhejiang, and Shanghai, 时间段不一定  
-- **Pollutants**: SO2, NOx, smoke and dust, CO2, etc.
+- **Pollutants**: SO<sub>2</sub>, NO<sub>x</sub>, smoke and dust, CO<sub>2</sub>, etc.
 
 # V. Weather / Climate
 
@@ -101,30 +97,26 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 
 
 ## NOAA Monitoring Data
-- **Source**: NOAA
+- **Source**: [NOAA](https://www.ncei.noaa.gov/data/global-hourly/access/)
 - **Resolution**: monitor x hourly
 - **Coverage**: global; for China: national (400+ monitors across all 200+ prefecture-level cities), 1901-present
 - Include elevation, temperature, dew temperature, cloud height, air pressure, visual distance, rain, snow depth, wind speed, wind direction
-- The data can be downloaded from https://www.ncei.noaa.gov/data/global-hourly/access/ 
 
 ## ERA5 Reanalysis Data
-- **Source**: ECMWF
+- **Source**: [ECMWF(]https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
 - **Resolution**: 0.25° x 0.25° x hourly (atmosphere), 0.5° x 0.5° x hourly (ocean waves)
 - **Coverage**: global, 1940-present
 - Include all the common-used variables, in addition, some other useful variables such as boundary layer height are also included.
-- The data can be downloaded from https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview 
 
 ## Weather Forecast Data #1
-- **Source**: ECMWF Integrated Forecasting System (IFS)
-- Different models and products have different resolutions: e.g., for the Atmospheric model Ensemble 15-day forecast (Set III - ENS): 0.1° x 0.1°, 4 forecast runs per day (00/06/12/18); different forecast time stamp for different runs (00/06/12/18): hourly, 3-hourly, 6-hourly
-- Detailed description can be found at https://confluence.ecmwf.int/display/FUG/Section+2+The+ECMWF+Integrated+Forecasting+System+-+IFS , for different models. 
-The data can be accessed at https://www.ecmwf.int/en/forecasts/dataset/operational-archive, need a subscription (€3000 (EUR) per annum). Real-time forecast data are available to the public free of charge.
+- **Source**: [ECMWF Integrated Forecasting System (IFS)](https://confluence.ecmwf.int/display/FUG/Section+2+The+ECMWF+Integrated+Forecasting+System+-+IFS) for detailed descriptions for different models.
+- Different models and products have different resolutions: e.g., for the Atmospheric model Ensemble 15-day forecast (Set III - ENS): 0.1° x 0.1°, 4 forecast runs per day (00/06/12/18); different forecast time stamp for different runs (00/06/12/18): hourly, 3-hourly, 6-hourly.
+The data can be accessed at [ECMWF Archive](https://www.ecmwf.int/en/forecasts/dataset/operational-archive), need a subscription (€3000 (EUR) per annum). Real-time forecast data are available to the public free of charge.
 
 ## Weather Forecast Data #2
-- **Source**: NOAA Global Forecast System (GFS)
+- **Source**: [NOAA Global Forecast System (GFS)](https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast)
 - **Resolution**: From 0.25°, 0.5° to 1°, depending on the product; 4 runs per day: 00, 06, 12, 18UTC; time stamp varies from hourly, 3-hourly, 12-hourly, etc. 
 - **Coverage**: 2004–present, depending on the product
-- The data can be accessed at https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast 
 
 ## Weather Forecast Data #3
 - **Source**: National Meteorological Information Center of China （国家气象科学数据中心，中国气象局）
@@ -151,15 +143,13 @@ The data can be accessed at https://www.ecmwf.int/en/forecasts/dataset/operation
 - *Note*: A map of the flood event with greater geographical accuracy (a pixel resolution of 250 meters) is available at this website: https://global-flood-database.cloudtostreet.ai/#interactive-map.
 
 ## Flood Events Data #2
-- **Source**: FloodList
+- **Source**: [FloodList](https://floodlist.com/data-api). (Access to the data has been closed but one can request the data on the waiting list.)
 - **Coverage**: Global, early 2016–present
-- For each flood event, the database includes (where possible) dates, locations (with geo-location), magnitude (rainfall, rivers, etc, also with geo-location) and damages (including fatalities, injuries, affected population, evacuations, and other material damages, also with geo-location).*
-- The data can be found at https://floodlist.com/data-api. Access to the data has been closed but one can request the data on the waiting list.
+- For each flood event, the database includes (where possible) dates, locations (with geo-location), magnitude (rainfall, rivers, etc, also with geo-location) and damages (including fatalities, injuries, affected population, evacuations, and other material damages, also with geo-location).
 
 ## MODIS/Aqua+Terra Global Flood Product
-- **Source**: LANCE MODIS NRT global flood product (MCDWD) by NASA
+- **Source**: [LANCE MODIS NRT global flood product (MCDWD)](https://nrt3.modaps.eosdis.nasa.gov/archive/allData/61/MCDWD_L3_NRT. ) by NASA
 - **Resolution**: ~250m x daily
 - **Coverage**: global, 2012-present
-- The Flood Product shows flood and surface water detected from the twice-daily overpass of the MODIS optical sensors (onboard Terra and Aqua satellites). Several flood composites are generated: 1-Day, 2-Day, and 3-Day. These require 1, 2, and 3 water detections, respectively, to mark a pixel as water. Detailed description can be found at https://www.earthdata.nasa.gov/learn/find-data/near-real-time/modis-nrt-global-flood-product.  
-- The data can be downloaded from LANCE server: https://nrt3.modaps.eosdis.nasa.gov/archive/allData/61/MCDWD_L3_NRT. 
+- The Flood Product shows flood and surface water detected from the twice-daily overpass of the MODIS optical sensors (onboard Terra and Aqua satellites). Several flood composites are generated: 1-Day, 2-Day, and 3-Day. These require 1, 2, and 3 water detections, respectively, to mark a pixel as water. Detailed description can be found at the [description page](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/modis-nrt-global-flood-product)
 
