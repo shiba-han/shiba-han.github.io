@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
@@ -24,6 +24,14 @@ author_profile: true
 
 - "She is very good at what she taught. confident in her teaching and the answers she provides for the tutorial question. she is very helpful to explain the topic."
 
-- She is great. She is knowledgeable and patient. She is willing to extend help to students and most importantly, she taught very well.
+- "She is great. She is knowledgeable and patient. She is willing to extend help to students and most importantly, she taught very well."
 
-- Yajie was extremely proactive and dedicated throughout this semester. She puts in effort to curate the videos and explanation to the various solutions.
+- "Yajie was extremely proactive and dedicated throughout this semester. She puts in effort to curate the videos and explanation to the various solutions."
+
+- "Yajie was extremely dedicated, passionate, and approachable to all her students. She put in a lot of effort into her classes and videos to ensure that her students could understand the module materials clearly."
+
+- "Very passionate, and excellent guidance and help given."
+
+- "helpful and friendly"
+
+- "Accommodated to the students and provided a very conducive learning environment."
