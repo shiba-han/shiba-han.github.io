@@ -23,10 +23,11 @@ author:
   # Biographic information
   avatar           : "profile1.png"
   name             : "Yajie Han"
-  
+  pronouns         : # "she/her"  
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Singapore"
   employer         : "National University of Singapore"
-  url              : https://www.hanyajie.com
+  uri              : https://www.hanyajie.com
   email            : "yajie.h@u.nus.edu" 
 
   # Academic websites
