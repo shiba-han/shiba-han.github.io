@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Tutorial Instructor
-
+#### National University of Singapore
 <!-- | Course                                          | Term          |
 |-------------------------------------------------|---------------|
 | RE1704 Principles of Real Estate Economics      | Spring 2021   |
