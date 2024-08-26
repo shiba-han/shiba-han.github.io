@@ -8,7 +8,7 @@ author_profile: true
 Data sources commonly used in environmental economics research (to be updated)
 
 
-
+======
 # I. Air Pollution
 ## Ground Monitoring Data
 - **Source**: China Ministry of Ecology and Environment  
@@ -43,8 +43,10 @@ Data sources commonly used in environmental economics research (to be updated)
 - Long-term, full-coverage, high-resolution, and high-quality datasets of ground-level air pollutants. It is generated from big data (e.g., ground-based measurements, satellite remote sensing products, atmospheric reanalysis, and model simulations) using artificial intelligence by considering the spatiotemporal heterogeneity of air pollution. 
 - **Pollutants**: 7 major air pollutants (i.e., PM<sub>1</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, O<sub>3</sub>, NO<sub>2</sub>, SO<sub>2</sub>, and CO), PM<sub>2.5</sub> chemical composition (i.e., SO<sub>4</sub><sup>2-</sup>, NO<sub>3</sub><sup>-</sup>, NH<sub>4</sub><sup>+</sup>, Cl<sup>-</sup>, BC, and OM), and ambient polycyclic aromatic hydrocarbons (PAHs), including 7 carcinogenic PAHs (i.e., BaA, Chr, BbF, BkF, BaP, DahA, IcdP).
 - Released by: Wei, Jing, Zhanqing Li, Alexei Lyapustin, Jun Wang, Oleg Dubovik, Joel Schwartz, Lin Sun, Chi Li, Song Liu, and Tong Zhu. 2023. “First Close Insight into Global Daily Gapless 1 Km PM2.5 Pollution, Variability, and Health Impact.” _Nature Communications_ 14 (1): 8349.  
-The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/records?q=&l=list&p=1&s=10&sort=newest).
+The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/records?q=&l=list&p=1&s=10&sort=newest).  
 
+
+======
 # II. Instrumental Variable for Air Pollution
 ## Thermal Inversion
 - **Source**: MERRA-2  
@@ -53,6 +55,7 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 - These data can be downloaded from [NASA Earth Data](https://disc.gsfc.nasa.gov/datasets/M2I3NPASM_5.12.4/summary?keywords=MERRA2).
 
 
+======
 # III. Water Pollution
 ## Monitoring Data
 - **Source**: [National Environmental Quality Monitoring Network–Surface Water Monitoring System](https://szzdjc.cnemc.cn:8070/GJZ/Business/Publish/Main.html)  
@@ -60,11 +63,12 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 - **Coverage**: 2014.04-present  
 - **Pollutants**
     - **Before 2020.05**: pH, Dissolved Oxygen (DO), Permanganate Index (CODMn), Total Organic Carbon (TOC), Ammonia Nitrogen (NH3-N)
-    - **After 2020-05**: Water Temperature (°C), pH, Dissolved Oxygen (mg/L), Electrical Conductivity (μs/cm), Turbidity (NTU), Permanganate Index (mg/L), Ammonia Nitrogen (mg/L), Total Phosphorus (mg/L), Total Nitrogen (mg/L), Chlorophyll-a (mg/L), Algal Density (cells/L)
+    - **After 2020-05**: Water Temperature (°C), pH, Dissolved Oxygen (mg/L), Electrical Conductivity (μs/cm), Turbidity (NTU), Permanganate Index (mg/L), Ammonia Nitrogen (mg/L), Total Phosphorus (mg/L), Total Nitrogen (mg/L), Chlorophyll-a (mg/L), Algal Density (cells/L)  
 
-
+====
+==
 # IV. Firm-level Emission Data
-## Environmental Survey and Reporting, [(ESR)](http://hbk.cei.cn/aspx/default.aspx)  
+## Environmental Survey and Reporting [(ESR)](http://hbk.cei.cn/aspx/default.aspx)  
 - **Source**: administrated by MEP, first self-reported by each polluter, and then randomly verified by government auditors  
 - **Resolution**: firm x yearly  
 - **Coverage**: since 2001, top firms/plants contributing 85% of total emissions of the major pollutants in a county are entered in the ERS (Wang et al. 2018)  
@@ -82,9 +86,10 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 - **Source**: each province’s publicly accessible data platform  
 - **Resolution**: firm x unit x hourly  
 - **Coverage**: e.g., Guangdong, Hubei, Shandong, Hebei, Zhejiang, and Shanghai  
-- **Pollutants**: SO<sub>2</sub>, NO<sub>x</sub>, smoke and dust, CO<sub>2</sub>, etc.
+- **Pollutants**: SO<sub>2</sub>, NO<sub>x</sub>, smoke and dust, CO<sub>2</sub>, etc.  
 
 
+======
 # V. Weather / Climate
 ## Ground Monitoring Data
 - **Source**: [National Meteorological Information Center of China](https://data.cma.cn/)
@@ -130,15 +135,16 @@ The data can be accessed at [ECMWF Archive](https://www.ecmwf.int/en/forecasts/d
 - **Coverage**: global, 1850–2300
 - Historical experiments which cover the period where modern climate observations exist. These experiments show how the GCMs performs for the past climate and can be used as a reference period for comparison with scenario runs for the future. The period covered is typically 1850-2005.
 - Ensemble of experiments from the Atmospheric Model Intercomparison Project (AMIP), which prescribes the oceanic variables for all models and during all period of the experiment. This configuration removes the added complexity of ocean-atmosphere feedbacks in the climate system. The period covered is typically 1950-2005.
-- Ensemble of climate projection experiments following the Representative Concentration Pathways (RCP) 2.6, 4.5, 6.0 and 8.5. The RCP scenarios provide different pathways of the future climate forcing. The period covered is typically, 2006-2100 some extended RCP experimental data is available from 2100-2300.
+- Ensemble of climate projection experiments following the Representative Concentration Pathways (RCP) 2.6, 4.5, 6.0 and 8.5. The RCP scenarios provide different pathways of the future climate forcing. The period covered is typically, 2006-2100 some extended RCP experimental data is available from 2100-2300.  
 
 
+======
 # VI. Flood
 ## Flood Events Data #1
 - **Source**: Global Active Archive of Large Flood Events or [Global Flood Database (GFD)](https://floodobservatory.colorado.edu/Archives) generated by the Dartmouth Flood Observatory (DFO). 
 - **Coverage**: Global, 1985-2021
 - Including location (shp file), start and end date, severity (quantified by damage, displaced/deaths), and main causes of large flood events across the globe. 
-- *Note*: A map of the flood event with greater geographical accuracy (a pixel resolution of 250 meters) is available at [this website](https://global-flood-database.cloudtostreet.ai/#interactive-map).
+- *Note*: A map of the flood event with greater geographical accuracy (a pixel resolution of 250 meters) is available at [The Global Flood Database](https://global-flood-database.cloudtostreet.ai/#interactive-map).
 
 ## Flood Events Data #2
 - **Source**: [FloodList](https://floodlist.com/data-api). (Access to the data has been closed but one can request the data on the waiting list.)
