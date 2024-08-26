@@ -15,9 +15,9 @@ author_profile: true
 
 - ["Haze and Crime: Evidence from Court Judgments in China"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382021) (with Ming Li and Yu Qin)
 - "Size Matters: Differential Response of Industrial Electricity Consumption to Temperature Variations Across Firms" (with Guoxing Zhang, Jilei Han, Hongbo Duan, Yongzhong Sha, Zhicheng Ma, and Yu Qin)
-- "The Impacts of Board's Unexpected Flood Experiences on Corporate ESG Performance", with Ruochen Dai, Dongmei Guo, and Yu Qin
-- "Rural Roads and Poverty Reduction in China", with Nino Pkhikidze, Yu Qin, and Yi Yang
-- "The Economics of Flooding", with Sumit Agarwal, Mingxuan Fan, Yu Qin, Hongjia Zhu
+- "The Impacts of Board's Unexpected Flood Experiences on Corporate ESG Performance" (with Ruochen Dai, Dongmei Guo, and Yu Qin)
+- "Rural Roads and Poverty Reduction in China" (with Nino Pkhikidze, Yu Qin, and Yi Yang)
+- "The Economics of Flooding" (with Sumit Agarwal, Mingxuan Fan, Yu Qin, Hongjia Zhu)
 
 ## Pre-doctoral Publications
 
@@ -25,10 +25,10 @@ author_profile: true
 
 ## Work in Progress
 
-- "Air Pollution and Food Consumption" \[Draft Coming Soon\], with Sumit Agarwal, Mingxuan Fan, Pulak Ghosh, and Yu Qin
-- "Climate Change and Supply Chains", with Ming Li and Yu Qin
-- "Peer Effects and Knowledge Spillovers in Cryptocurrency Market", with Gang Guo
-- "Gender Gap in Business Trips", with Ruochen Dai, Jie Gong, Dongmei Guo, and Yu Qin
+- "Air Pollution and Food Consumption" \[Draft Coming Soon\] (with Sumit Agarwal, Mingxuan Fan, Pulak Ghosh, and Yu Qin)
+- "Climate Change and Supply Chains" (with Ming Li and Yu Qin)
+- "Peer Effects and Knowledge Spillovers in Cryptocurrency Market" (with Gang Guo)
+- "Gender Gap in Business Trips" (with Ruochen Dai, Jie Gong, Dongmei Guo, and Yu Qin)
 
 
 <!-- {% include base_path %}
