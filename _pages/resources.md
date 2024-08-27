@@ -74,7 +74,7 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 - **Pollutants**: COD, ammonia nitrogen, sulfur dioxide, industrial smoke and dust, and solid waste  
 - The most comprehensive environmental data in China and monitors polluting activities of all major polluting sources, including heavily polluting industrial firms, hospitals, residential pollution discharging units, hazardous waste treatment plants, and urban sewage treatment plants.
 - Papers that use this data
-    - Chen, S., et al. (2023). Bank deregulation and corporate environmental performance. _World Development_, 161, 106106.
+    <!-- - Chen, S., et al. (2023). Bank deregulation and corporate environmental performance. _World Development_, 161, 106106. -->
     - He, G., Wang, S., & Zhang, B. (2020). Watering Down Environmental Regulation in China*. _The Quarterly Journal of Economics_.
     - Liu, Z., Shen, H., Welker, M., Zhang, N., & Zhao, Y. (2021). Gone with the wind: An externality of earnings pressure. _Journal of Accounting and Economics_, 72(1), 101403.
     - Wang, C., Wu, J., & Zhang, B. (2018). Environmental regulation, emissions and productivity: Evidence from Chinese COD-emitting manufacturers. _Journal of Environmental Economics and Management_.

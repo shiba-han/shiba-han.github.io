@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 ## Tutorial Instructor
-#### National University of Singapore
+- National University of Singapore
 <!-- | Course                                          | Term          |
 |-------------------------------------------------|---------------|
 | RE1704 Principles of Real Estate Economics      | Spring 2021   |
 | RE1705 Real Estate Finance and Accounting       | Fall 2021     |
 | RE2706 Real Estate and Infrastructure Finance   | Spring 2022   | -->
-* RE1704 Principles of Real Estate Economics,  Spring 2021
-* RE1705 Real Estate Finance and Accounting, Fall 2021
-* RE2706 Real Estate and Infrastructure Finance, Spring 2022
+    - RE1704 Principles of Real Estate Economics,  Spring 2021
+    - RE1705 Real Estate Finance and Accounting, Fall 2021
+    - RE2706 Real Estate and Infrastructure Finance, Spring 2022
 
 ## Selected Student Feedback
 
