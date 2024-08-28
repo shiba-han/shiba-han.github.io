@@ -26,10 +26,10 @@ author_profile: true
 - "Accommodated to the students and provided a very conducive learning environment."
 - "Kind, patient, addresses student's queries well and thoroughly"
 
-## Dissertation Advising
+<!-- ## Dissertation Advising
 
 - Ms. Neo, "Unveiling the Connection between Regional Centers and Private Residential Property Prices"
-- Ms. Teng, "Impact of High-speed Rail Cancellation on Property Prices: A Study on the Singapore-Kuala Lumpur High Speed Rail"
+- Ms. Teng, "Impact of High-speed Rail Cancellation on Property Prices: A Study on the Singapore-Kuala Lumpur High Speed Rail" -->
 
 ## Teaching Assistant
 
