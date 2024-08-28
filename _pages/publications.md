@@ -25,7 +25,7 @@ author_profile: true
 
 ## Work in Progress
 
-- "Air Pollution and Food Consumption" \[Draft Coming Soon\] (with Sumit Agarwal, Mingxuan Fan, Pulak Ghosh, and Yu Qin)
+- "Air Pollution and Food Consumption" \[_Draft Coming Soon_\] (with Sumit Agarwal, Mingxuan Fan, Pulak Ghosh, and Yu Qin)
 - "Climate Change and Supply Chains" (with Ming Li and Yu Qin)
 - "Peer Effects and Knowledge Spillovers in Cryptocurrency Market" (with Gang Guo)
 - "Gender Gap in Business Trips" (with Ruochen Dai, Jie Gong, Dongmei Guo, and Yu Qin)
