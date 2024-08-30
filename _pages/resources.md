@@ -46,13 +46,13 @@ Data sources commonly used in environmental economics research (to be updated)
 - **Pollutants**: 7 major air pollutants (i.e., PM<sub>1</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, O<sub>3</sub>, NO<sub>2</sub>, SO<sub>2</sub>, and CO), PM<sub>2.5</sub> chemical composition (i.e., SO<sub>4</sub><sup>2-</sup>, NO<sub>3</sub><sup>-</sup>, NH<sub>4</sub><sup>+</sup>, Cl<sup>-</sup>, BC, and OM), and ambient polycyclic aromatic hydrocarbons (PAHs), including 7 carcinogenic PAHs (i.e., BaA, Chr, BbF, BkF, BaP, DahA, IcdP).
 - ![Detailed Description](../doc/GHAP.jpg "Detailed Description")
 - Released by: Wei, Jing, Zhanqing Li, Alexei Lyapustin, Jun Wang, Oleg Dubovik, Joel Schwartz, Lin Sun, Chi Li, Song Liu, and Tong Zhu. 2023. “First Close Insight into Global Daily Gapless 1 Km PM2.5 Pollution, Variability, and Health Impact.” _Nature Communications_ 14 (1): 8349. 
-- The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/records?q=&l=list&p=1&s=10&sort=newest). More air quality datasets of different air pollutants can be found at: https://weijing-rs.github.io/product.html
+- The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/records?q=&l=list&p=1&s=10&sort=newest). More air quality datasets of different air pollutants can be found at [their github page](https://weijing-rs.github.io/product.html).
 
 
 ---
 ## II. Instrumental Variable for Air Pollution
 ### 2.1. Thermal Inversion
-- **Source**: MERRA-2  
+- **Source**: MERRA-2 product of NASA
 - **Resolution**: 0.5 ° x 0.625 ° x 3 hours x 42 pressure levels  
 - **Coverage**: global, 1980–present  
 - These data can be downloaded from [NASA Earth Data](https://disc.gsfc.nasa.gov/datasets/M2I3NPASM_5.12.4/summary?keywords=MERRA2).
