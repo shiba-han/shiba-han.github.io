@@ -13,7 +13,7 @@ Data sources commonly used in environmental economics research (to be updated)
 ### 1.1. Ground Monitoring Data
 - **Source**: China Ministry of Ecology and Environment  
 - **Resolution**: monitor x hourly  
-- **Coverage**: national (~1,600 monitors across all 330+ prefecture-level cities), 2013 – today  
+- **Coverage**: China (national, ~1,600 monitors across all 330+ prefecture-level cities), 2013 – today  
 - **Pollutants**: PM<sub>2.5</sub>, PM<sub>10</sub>, O<sub>3</sub>, NO<sub>2</sub>, SO<sub>2</sub>, CO  
 - Real-time monitoring data are posted [here](http://106.37.208.233:20035/). Historical data going back to 2013 are available for purchase from [a private nonenterprise](http://data.epmap.org/). Another version of the historical data (May 2014 onward) is provided by Xiaolei Wang free of charge [here](https://quotsoft.net/air/).
 
@@ -37,13 +37,16 @@ Data sources commonly used in environmental economics research (to be updated)
 - **Coverage**: global, 2004.10–present  
 - **Pollutants**: SO<sub>2</sub> (molecule per square centimeter)  
 - OMSO<sub>2</sub>e is collected by OMI, a spectrometer aboard NASA’s Aura satellite. OMSO<sub>2</sub>e measures Total Column Density of SO<sub>2</sub> in the Planetary Boundary Layer.
-- *Note*: OMSO<sub>2</sub>e contains many negative values with a mean value close to zero. Negative values are a result of OMSO<sub>2</sub>e’s retrieval algorithm, which is based on principal component analysis. The algorithm may give slightly negative values in regions where SO<sub>2</sub> emissions are low. However, when SO<sub>2</sub> emissions are high, we will see a stronger signal and higher SO2 value.
+- *Note*: OMSO<sub>2</sub>e contains many negative values with a mean value close to zero. Negative values are a result of OMSO<sub>2</sub>e’s retrieval algorithm, which is based on principal component analysis. The algorithm may give slightly negative values in regions where SO<sub>2</sub> emissions are low. However, when SO<sub>2</sub> emissions are high, we will see a stronger signal and higher SO<sub>2</sub> value.
 
 ### 1.5. Global High Air Pollutants (GHAP)
-- Long-term, full-coverage, high-resolution, and high-quality datasets of ground-level air pollutants. It is generated from big data (e.g., ground-based measurements, satellite remote sensing products, atmospheric reanalysis, and model simulations) using artificial intelligence by considering the spatiotemporal heterogeneity of air pollution. 
+- The GlobalHighAirPollutants (GHAP) dataset refers to the long-term, full-coverage, high-resolution, and high-quality datasets of ground-level air pollutants. It is generated from big data (e.g., ground-based measurements, satellite remote sensing products, atmospheric reanalysis, and model simulations) using artificial intelligence by considering the spatiotemporal heterogeneity of air pollution. 
+- **Resolution and Coverage**: 1 km x Daily/Monthly/Yearly
+- **Coverage**: global, 2000-Present
 - **Pollutants**: 7 major air pollutants (i.e., PM<sub>1</sub>, PM<sub>2.5</sub>, PM<sub>10</sub>, O<sub>3</sub>, NO<sub>2</sub>, SO<sub>2</sub>, and CO), PM<sub>2.5</sub> chemical composition (i.e., SO<sub>4</sub><sup>2-</sup>, NO<sub>3</sub><sup>-</sup>, NH<sub>4</sub><sup>+</sup>, Cl<sup>-</sup>, BC, and OM), and ambient polycyclic aromatic hydrocarbons (PAHs), including 7 carcinogenic PAHs (i.e., BaA, Chr, BbF, BkF, BaP, DahA, IcdP).
-- Released by: Wei, Jing, Zhanqing Li, Alexei Lyapustin, Jun Wang, Oleg Dubovik, Joel Schwartz, Lin Sun, Chi Li, Song Liu, and Tong Zhu. 2023. “First Close Insight into Global Daily Gapless 1 Km PM2.5 Pollution, Variability, and Health Impact.” _Nature Communications_ 14 (1): 8349.  
-The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/records?q=&l=list&p=1&s=10&sort=newest).  
+- ![Detailed Description](../doc/GHAP.jpg "Detailed Description")
+- Released by: Wei, Jing, Zhanqing Li, Alexei Lyapustin, Jun Wang, Oleg Dubovik, Joel Schwartz, Lin Sun, Chi Li, Song Liu, and Tong Zhu. 2023. “First Close Insight into Global Daily Gapless 1 Km PM2.5 Pollution, Variability, and Health Impact.” _Nature Communications_ 14 (1): 8349. 
+- The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/records?q=&l=list&p=1&s=10&sort=newest). More air quality datasets of different air pollutants can be found at: https://weijing-rs.github.io/product.html
 
 
 ---
@@ -94,7 +97,7 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 - **Source**: [National Meteorological Information Center of China](https://data.cma.cn/)
 - **Resolution**: monitor x daily  
 - **Coverage**: national (700+ monitors across all 330+ prefecture-level cities), 2008–2021 
-- Include temperature, air pressure, water pressure, precipitation, relative humidity, sunshine duration, wind speed, wind direction
+- **Weather Conditions**: temperature, air pressure, water pressure, precipitation, relative humidity, sunshine duration, wind speed, wind direction
 - *Note*: Downloading the data needs access as an education user.
 
 
@@ -108,7 +111,7 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 - **Source**: [ECMWF](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
 - **Resolution**: 0.25° x 0.25° x hourly (atmosphere), 0.5° x 0.5° x hourly (ocean waves)
 - **Coverage**: global, 1940-present
-- Include all the common-used variables, in addition, some other useful variables such as boundary layer height are also included.
+- Include all the common-used variables; in addition, some other useful variables such as boundary layer height are also included.
 
 ### 5.4. Weather Forecast Data
 - 5.4.1. [ECMWF Integrated Forecasting System (IFS)](https://www.ecmwf.int/en/forecasts/dataset/operational-archive)
@@ -122,7 +125,7 @@ The data can be downloaded from [Zenodo](https://zenodo.org/communities/ghap/rec
 - 5.4.3 National Meteorological Information Center of China
     - **Resolution**: district x daily; including hourly forecast, next day half-day forecast, 15-day forecast, 40-day forecast.
     - **Coverage**: 2017–present
-    - CMDSC only has real-time data available to the public; historical data going back to 2017 are available for purchase from a [private nonenterprise](http://data.epmap.org/).
+    - *Note*: CMDSC only has real-time data available to the public; historical data going back to 2017 are available for purchase from a [private nonenterprise](http://data.epmap.org/).
 
 ### 5.5. Climate Projections
 - **Source**: CMIP5
