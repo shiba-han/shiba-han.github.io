@@ -25,9 +25,9 @@ author:
   name             : "Yajie Han"
   pronouns         : # "she/her"  
   bio              : "Welcome to my website!"
-  location         : " Singapore"
-  employer         : " National University of Singapore"
-  # uri              : https://www.hanyajie.com
+  location         : "Singapore"
+  employer         : "National University of Singapore"
+  # uri            : https://www.hanyajie.com
   email            : "yajie.h@u.nus.edu" 
 
   # Academic websites
