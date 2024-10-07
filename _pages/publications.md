@@ -14,7 +14,7 @@ author_profile: true
 ## Working Papers
 
 - "The Impacts of Board's Unexpected Flood Experiences on Corporate ESG Performance" (with Ruochen Dai, Dongmei Guo, and Yu Qin)
-- ["Haze and Crime: Evidence from Court Judgments in China"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382021) (with Ming Li and Yu Qin)
+- ["Haze and Crime: Evidence from Court Judgments in China"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382021) (with Ming Li and Yu Qin), **_Job Market Paper_**
 - "Size Matters: Differential Response of Industrial Electricity Consumption to Temperature Variations Across Firms" (with Guoxing Zhang, Jilei Han, Hongbo Duan, Yongzhong Sha, Zhicheng Ma, and Yu Qin)
 <!-- - "Rural Roads and Poverty Reduction in China" (with Nino Pkhikidze, Yu Qin, and Yi Yang) -->
 <!-- - "The Economics of Flooding" (with Sumit Agarwal, Mingxuan Fan, Yu Qin, Hongjia Zhu) -->
