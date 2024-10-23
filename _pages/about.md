@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello, I'm **Yajie Han (韩亚婕)**.  
 
-I am a Ph.D. candidate in the Department of Real Estate at the NUS Business School, National University of Singapore, and expect to graduate in June 2025. 
+I am a Ph.D. candidate in the Department of Real Estate at the NUS Business School, National University of Singapore, and expect to graduate in June 2025.   
 My research interests lie in environmental economics, public economics, and applied microeconomics, with a particular focus on climate change, air pollution, and sustainability. 
 
 I will be on the 2024/25 academic job market. Here is my [CV](../doc/cv.pdf).
