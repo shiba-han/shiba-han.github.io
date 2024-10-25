@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yajie Han"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yajie Han"
 description              : &description "Hello! I'm Yajie Han (韩亚婕), a Ph.D. candidate from the Department of Real Estate at NUS Business School."
