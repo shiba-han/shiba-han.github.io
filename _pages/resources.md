@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-Data sources commonly used in environmental economics research (to be updated)
+Data sources commonly used in environmental economics research (to be updated).
 
 
 ---
