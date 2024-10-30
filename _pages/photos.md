@@ -8,11 +8,13 @@ author_profile: true
 
 <!-- ![Exit Glacier](/images/ExitGlacier.jpg) -->
 <!-- <a href='/images/ExitGlacier.jpg' target='_blank'><image src='/images/small-nationalparks.png' /></a> -->
-Exit Glacier
-
-<img src='/images/ExitGlacier.jpg' alt="Exit Glacier" width="1000"/>
+Glacier
 
 <img src='/images/Glacier.jpg' alt="Glacier" width="1000"/>
+
+<img src='/images/Glacier1.jpg' alt="Glacier" width="1000"/>
+
+<img src='/images/Glacier3.jpg' alt="Glacier" width="1000"/>
 
 
 Wildlife
@@ -26,6 +28,11 @@ Wildlife
 <img src='/images/KillerWhale.jpg' alt="KillerWhale" width="1000"/>
 
 <img src='/images/Goat.jpg' alt="Goat" width="1000"/>
+
+
+Exit Glacier
+
+<img src='/images/ExitGlacier.jpg' alt="Exit Glacier" width="1000"/>
 
 
 
