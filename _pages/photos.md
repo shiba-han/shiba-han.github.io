@@ -12,7 +12,7 @@ Glacier
 
 <img src='/images/Glacier.jpg' alt="Glacier" width="1000"/>
 
-<img src='/images/Glacier1.jpg' alt="Glacier" width="1000"/>
+<img src='/images/Glacier2.jpg' alt="Glacier" width="1000"/>
 
 <img src='/images/Glacier3.jpg' alt="Glacier" width="1000"/>
 
