@@ -155,3 +155,7 @@ Data sources commonly used in environmental economics research (to be updated).
 - **Coverage**: global, 2012-present
 - The Flood Product shows flood and surface water detected from the twice-daily overpass of the MODIS optical sensors (onboard Terra and Aqua satellites). Several flood composites are generated: 1-Day, 2-Day, and 3-Day. These require 1, 2, and 3 water detections, respectively, to mark a pixel as water. Detailed description can be found at the [description page](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/modis-nrt-global-flood-product).
 
+
+---
+## VII. Others
+- [Satellite Data in Agricultural and Environmental Economics: Theory and Practice](https://econpapers.repec.org/paper/agscfcp15/344359.htm) by David Wüpper, Wyclife Agumba Oluoch and Hadi
