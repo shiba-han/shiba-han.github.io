@@ -21,7 +21,7 @@ repository               : "shiba-han/shiba-han.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "formal1.png"
   name             : "Yajie Han"
   pronouns         : # "she/her"  
   bio              : "Ph.D. candidate"
