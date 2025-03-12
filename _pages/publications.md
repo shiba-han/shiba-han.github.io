@@ -23,11 +23,12 @@ author_profile: true
 
 - **Yajie Han** and Hongjia Zhu (2024) ["Extreme Weather and Complaints—Evidence from Chinese Netizens"](../doc/extreme_weather_complaints.pdf), _China Economic Journal_, DOI: 10.1080/17538963.2023.2300869
 
+<!--
 ## Work in Progress
 
 - "Eating Smart: Reducing Unhealthy Food During High Pollution" \[_Draft Coming Soon_\] (with Sumit Agarwal, Mingxuan Fan, Pulak Ghosh, and Yu Qin)
 - "Climate Change and Domestic Supply Chains" (with Ming Li and Yu Qin)
-- "Peer Effects and Knowledge Spillovers in the Cryptocurrency Market" (with Gang Guo)
+- "Peer Effects and Knowledge Spillovers in the Cryptocurrency Market" (with Gang Guo) -->
 <!-- - "Gender Gap in Business Trips" (with Ruochen Dai, Jie Gong, Dongmei Guo, and Yu Qin) -->
 
 
