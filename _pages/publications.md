@@ -13,12 +13,14 @@ author_profile: true
 
 ## Working Papers
 
-- ["The Impacts of Board's Unexpected Flood Experiences on Corporate ESG Performance"](https://docsend.com/v/j8mvq/hanyajie_flood_esg) (with Ruochen Dai, Dongmei Guo, and Yu Qin)
+- - ["The Impacts of Board's Unexpected Flood Experiences on Corporate ESG Performance"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405391) (with Ruochen Dai, Dongmei Guo, and Yu Qin)
 - ["Haze and Crime: Evidence from Court Judgments in China"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382021) (with Ming Li and Yu Qin)
 - ["Size Matters: Differential Response of Industrial Electricity Consumption to Temperature Variations Across Firms"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5292360) (with Guoxing Zhang, Jilei Han, Hongbo Duan, Zhicheng Ma, and Yu Qin)
 - ["Eating Smart: Reducing Unhealthy Food During High Pollution"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5209064) (with Sumit Agarwal, Mingxuan Fan, Pulak Ghosh, Yu Qin, and Akshar Saxena)
+<!-- - ["The Economic Gains from Renewable Energy: Evidence from China's Land Market"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5403567) (with Binkai Chen, Yichen Feng, Dongmei Guo, Guoxing Zhang, and Shuting Zhang) -->
 <!-- - "Rural Roads and Poverty Reduction in China" (with Nino Pkhikidze, Yu Qin, and Yi Yang) -->
 <!-- - "The Economics of Flooding" (with Sumit Agarwal, Mingxuan Fan, Yu Qin, Hongjia Zhu) -->
+<!-- - ["The Impacts of Board's Unexpected Flood Experiences on Corporate ESG Performance"](https://docsend.com/v/j8mvq/hanyajie_flood_esg) (with Ruochen Dai, Dongmei Guo, and Yu Qin) -->
 
 ## Pre-doctoral Publications
 
