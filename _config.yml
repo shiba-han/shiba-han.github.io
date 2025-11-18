@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yajie Han"
-description              : &description "Hello! I'm Yajie Han (韩亚婕), a Ph.D. graduate from the Department of Real Estate at NUS Business School."
+description              : &description "Hello! I'm Yajie Han (韩亚婕), an Assistant Professor in Applied Economics at the School of Management, Fudan University. I received my Ph.D. from the Department of Real Estate at NUS Business School."
 url                      : https://www.hanyajie.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shiba-han/shiba-han.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "formal1.png"
   name             : "Yajie Han"
   pronouns         : # "she/her"  
-  bio              : "Ph.D."
+  bio              : "Assistant Professor @ Department of Applied Economics, School of Management, Fudan University."
   location         : "Singapore"
   # employer         : "National University of Singapore"
   # uri            : https://www.hanyajie.com
-  email            : "yajie.h@u.nus.edu" 
+  email            : "yajiehan@fudan.edu.cn" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=DFrjF7QAAAAJ&hl=en"
