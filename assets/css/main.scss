@@ -41,17 +41,30 @@
 @import "print";
 
 
+/* Global font override */
 body {
-  font-family: "Source Serif 4", Georgia, serif;
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Helvetica, Arial, sans-serif;
 }
 
+/* Headings */
 h1, h2, h3, h4, h5, h6,
 .site-title,
 .masthead,
 .nav__list {
   font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 600;
 }
 
+/* UI text */
+.author__name,
+.page__meta,
+.toc,
+.archive__item-title {
+  font-family: "Source Sans 3", sans-serif;
+}
+
+/* Code */
 code, pre {
   font-family: "JetBrains Mono", monospace;
 }
