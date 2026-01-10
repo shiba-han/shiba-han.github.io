@@ -39,3 +39,19 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+body {
+  font-family: "Source Serif 4", Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.masthead,
+.nav__list {
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+code, pre {
+  font-family: "JetBrains Mono", monospace;
+}
