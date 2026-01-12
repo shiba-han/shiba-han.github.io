@@ -44,12 +44,14 @@
 
 /* === Typography override: Crimson Pro === */
 
+/* Global text */
 body {
   font-family: "Crimson Pro", Georgia, "Times New Roman", serif;
   font-weight: 400;
   line-height: 1.7;  /* 学术阅读更舒服 */
 }
 
+/* Headings */
 h1, h2, h3, h4, h5, h6,
 .page__title,
 .archive__item-title,
@@ -61,3 +63,20 @@ h1, h2, h3, h4, h5, h6,
   letter-spacing: -0.01em;
 }
 
+
+/* Optional: slightly larger paragraph spacing for readability */
+p {
+  margin-bottom: 1.1em;
+}
+
+
+
+.masthead__inner-wrap {
+  font-family: "Crimson Pro", Georgia, serif;
+}
+
+.masthead__menu-item a,
+.site-title a,
+.greedy-nav a {
+  font-family: "Crimson Pro", Georgia, serif;
+}
