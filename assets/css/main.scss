@@ -73,3 +73,21 @@ p {
 .masthead__inner-wrap * {
   font-family: "Crimson Pro", Georgia, serif !important;
 }
+
+
+.sidebar,
+.author__content,
+.author__name,
+.author__bio,
+.author__urls,
+.author__urls li,
+.author__urls li a {
+  font-family: "Crimson Pro", Georgia, serif;
+}
+
+/* Don't override icon fonts */
+.sidebar i,
+.author__urls i,
+.ai, .fas, .far, .fab {
+  font-family: inherit;
+}
