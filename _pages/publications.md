@@ -29,7 +29,6 @@ author_profile: true
 
 - **Yajie Han** and Hongjia Zhu (2024) ["Extreme Weather and Complaints—Evidence from Chinese Netizens"](../doc/extreme_weather_complaints.pdf), _China Economic Journal_, DOI: 10.1080/17538963.2023.2300869
 
--->
 
 <!--
 ## Work in Progress
