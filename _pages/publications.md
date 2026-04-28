@@ -11,11 +11,12 @@ author_profile: true
 
 - Ruochen Dai, Dongmei Guo, **Yajie Han** and Yu Qin*. ["Pollution-Induced Trips: Evidence from Flight and Train Bookings in China"](../doc/pollution_induced_trips.pdf) **_Journal of Development Economics_**, 2024 Vol 171: 103340.
 
+- **Yajie Han***, Ming Li, and Yu Qin. ["Haze and crime: Evidence from court judgments in China"](../doc/haze_crime.pdf) **_China Economic Review_**, 2026 Vol 98: 102715.
+
 
 ## Working Papers
 
 - ["The Impacts of Board's Unexpected Flood Experiences on Corporate ESG Performance"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405391) (with Ruochen Dai, Dongmei Guo, and Yu Qin)
-- ["Haze and Crime: Evidence from Court Judgments in China"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4382021) (with Ming Li and Yu Qin)
 - ["Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045774) (with Li An, Yinghao Pan, and Yu Qin)
 - ["Size Matters: Differential Response of Industrial Electricity Consumption to Temperature Variations Across Firms"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5292360) (with Guoxing Zhang, Jilei Han, Hongbo Duan, Zhicheng Ma, and Yu Qin)
 - ["Eating Smart: Reducing Unhealthy Food During High Pollution"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5209064) (with Sumit Agarwal, Mingxuan Fan, Pulak Ghosh, Yu Qin, and Akshar Saxena)
